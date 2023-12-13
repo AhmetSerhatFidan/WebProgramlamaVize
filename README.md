@@ -1,4 +1,4 @@
-# quasar-todo (ahmetfarukyuksektepe)
+# quasar-todo
 
 A Quasar Project
 
